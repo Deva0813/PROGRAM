@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "JAVA/Scicalc",
+        "JAVA/Exp"
+    ],
+    "cmake.configureOnOpen": false
+}
