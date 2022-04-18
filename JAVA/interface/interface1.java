@@ -10,5 +10,5 @@ class interface1 implements Showable.Message{
  public static void main(String args[]){  
   Showable.Message message=new interface1();//upcasting here  
   message.msg();  
- }  
+ }
 } 
